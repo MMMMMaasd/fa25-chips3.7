@@ -1,3 +1,5 @@
+This is Michael Bian's assignment finished version
+
 Wordguesser: a scaffolded (!) ESaaS getting-started assignment
 =============================================================
 
